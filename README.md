@@ -45,6 +45,6 @@ Feel free to explore the Morse Code Translator and enhance its features!
 ## License
 
 This project is licensed under the [ECLIPSE public licenense).
-```
 
+##Author##
 Mayank Bharwal
