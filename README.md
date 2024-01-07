@@ -44,7 +44,7 @@ Feel free to explore the Morse Code Translator and enhance its features!
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [ECLIPSE public licenense).
 ```
 
-Replace the placeholder text with specific details about your project, and make sure to include a `LICENSE` file if applicable.
+Mayank Bharwal
